@@ -1,8 +1,7 @@
-tennis_analysis/training/data/
+Tennis Project/tennis_analysis/training/data/
 *.pyc
-tennis_analysis/training/tennis-ball-detection-6/
-tennis_analysis/models/
-*.png
+Tennis Project/tennis_analysis/training/tennis-ball-detection-6/
+Tennis Project/tennis_analysis/models/
 *.pt
 *.pth
 *.docx
