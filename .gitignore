@@ -1,0 +1,8 @@
+tennis_analysis/training/data/
+*.pyc
+tennis_analysis/training/tennis-ball-detection-6/
+tennis_analysis/models/
+*.png
+*.pt
+*.pth
+*.docx
